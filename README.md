@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.shutterstock.com/image-illustration/verilog-form-binary-code-3d-600w-704983843.jpg)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://look4raghav.io)
 
 <h1 align="center">Hi 👋, I'm RAGHAV AGGARWAL</h1>
 <h3 align="center">A passionate in Verilog from India</h3>

@@ -46,4 +46,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=look4raghav&" alt="look4raghav" /></p>
 
-<a href="http://www.github.com/look4raghav"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=look4raghav&bg_color=ffffff&color=3382ed&line=0891b2&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/look4raghav"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=look4raghav&bg_color=1c1917&color=3382ed&line=0891b2&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

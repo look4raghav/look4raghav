@@ -40,6 +40,7 @@
 
 <p><a href="https://www.buymeacoffee.com/look4raghav"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="look4raghav" /></a></p><br><br>
 
+# 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=look4raghav&show_icons=true&locale=en&layout=compact" alt="look4raghav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=look4raghav&show_icons=true&locale=en" alt="look4raghav" /></p>
@@ -48,5 +49,5 @@
 
 <a href="http://www.github.com/look4raghav"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=look4raghav&bg_color=1c1917&color=3382ed&line=0891b2&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

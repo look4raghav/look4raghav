@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/look4raghav" target="blank"><img src="https://img.shields.io/twitter/follow/look4raghav?logo=twitter&style=for-the-badge" alt="look4raghav" /></a> </p>
 
-- 🔭 I’m currently working on **Verilog**
+- 🔭 I’m currently working on **FPGA**
 
 - 🌱 I’m currently learning **Verilog.**
 

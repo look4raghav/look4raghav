@@ -11,17 +11,17 @@
 
 <p align="left"> <a href="https://twitter.com/look4raghav" target="blank"><img src="https://img.shields.io/twitter/follow/look4raghav?logo=twitter&style=for-the-badge" alt="look4raghav" /></a> </p>
 
-- 🔭 I’m currently working on **FPGA**
+- 🔭 I’m currently working on **Verification**
 
-- 🌱 I’m currently learning **Verilog.**
+- 🌱 I’m currently learning **System Verilog.**
 
 - 👯 I’m looking to collaborate on **VLSI Projects**
 
-- 🤝 I’m looking for help with **Verilog**
+- 🤝 I’m looking for help with **UVM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/look4raghav](https://github.com/look4raghav)
 
-- 💬 Ask me about **C, front-end, Java, Python-django, VLSI etc.**
+- 💬 Ask me about **C, front-end, Java, Python-django, VLSI(Verilog, SystemVerilog) etc.**
 
 - 📫 How to reach me **look4raghavworld@gmail.com**
 

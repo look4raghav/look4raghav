@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm RAGHAV AGGARWAL</h1>
-<h3 align="center">A passionate in Verilog from India</h3>
+<h3 align="center">A passionate in Semiconductor from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <br>

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm RAGHAV AGGARWAL</h1>
 <h3 align="center">A passionate in Semiconductor from India</h3>
 
-<img align="right" alt="Coding" width="700" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=look4raghav&label=Profile%20views&color=0e75b6&style=flat" alt="look4raghav" /> </p>
@@ -47,8 +47,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=look4raghav&show_icons=true&locale=en" alt="look4raghav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=look4raghav&" alt="look4raghav" /></p>
-
-<a href="http://www.github.com/look4raghav"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=look4raghav&bg_color=1c1917&color=3382ed&line=0891b2&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

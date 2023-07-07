@@ -3,13 +3,10 @@
 <h3 align="center">A passionate in Semiconductor from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
-<br>
-<br>
-
-<br>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=look4raghav&label=Profile%20views&color=0e75b6&style=flat" alt="look4raghav" /> </p>
+
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=look4raghav&row=2&column=3">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=look4raghav" alt="look4raghav" /></a> </p>
 

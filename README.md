@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm RAGHAV AGGARWAL</h1>
-<h3 align="center">A passionate in Semiconductor from India</h3>
+<h3 align="center">A passionate in Verification and FPGA from India</h3>
 
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 <br>
@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/look4raghav" target="blank"><img src="https://img.shields.io/twitter/follow/look4raghav?logo=twitter&style=for-the-badge" alt="look4raghav" /></a> </p>
 
-- 🔭 I’m currently working on **Verification**
+- 🔭 I’m currently working on **FPGA**
 
-- 🌱 I’m currently learning **System Verilog.**
+- 🌱 I’m currently learning **Verification.**
 
-- 👯 I’m looking to collaborate on **VLSI Projects**
+- 👯 I’m looking to collaborate on **FPGA & Verification Projects**
 
 - 🤝 I’m looking for help with **UVM**
 
@@ -23,7 +23,7 @@
 
 - 📫 Track me also on InterviewBit@look4raghav.**[https://www.interviewbit.com/profile/look4raghav]**
                                  
-- 💬 Ask me about **C, front-end, Java, Python-django, VLSI(Verilog, SystemVerilog) etc.**
+- 💬 Ask me about **C, Verilog, SystemVerilog, front-end, Java, Python-django etc.**
 
 - 📫 How to reach me **look4raghavworld@gmail.com**
 
